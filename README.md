@@ -5,6 +5,8 @@ This was created using the [pygame](https://www.pygame.org/news) python library!
 
 Start your pygame journey now by following this tutorial by [Clear Code](https://youtu.be/8OMghdHP-zs?si=tVvFZrbNsUCItr1h)! 
 
+The sprite pack used for the demonstration was made by 0x72 and can be found [here](https://0x72.itch.io/dungeontileset-ii)!
+
 HOW TO RUN:
 1. To run the game, make sure that you have pygame installed. 
 2. You can install pygame by navigating to the terminal and typing `pip install pygame`. 
