@@ -7,7 +7,7 @@ Start your pygame journey now by following this tutorial by [Clear Code](https:/
 
 The sprite pack used for the demonstration was made by 0x72 and can be found [here](https://0x72.itch.io/dungeontileset-ii)!
 
-HOW TO RUN:
+**HOW TO RUN:**
 1. To run the game, make sure that you have pygame installed. 
 2. You can install pygame by navigating to the terminal and typing `pip install pygame`. 
 3. Once it has finished installing, navigate to the project directory and make sure you are in the `/code` directory. 
